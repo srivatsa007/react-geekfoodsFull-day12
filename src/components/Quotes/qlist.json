@@ -1,0 +1,252 @@
+[
+	{
+		"_id": "POF-Umusm4LH",
+		"content": "The world is a book, and those who do not travel read only a page.",
+		"author": "Augustine of Hippo",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "augustine-of-hippo",
+		"length": 66,
+		"dateAdded": "2020-06-24",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "w0fjvau7GwbH",
+		"content": "All is flux; nothing stays still.",
+		"author": "Heraclitus",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "heraclitus",
+		"length": 33,
+		"dateAdded": "2019-10-12",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "O5DRbJoceY05",
+		"content": "If you don't know where you are going, you will probably end up somewhere else.",
+		"author": "Laurence J. Peter",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "laurence-j-peter",
+		"length": 79,
+		"dateAdded": "2021-03-28",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "smbfaOldHD",
+		"author": "The Buddha",
+		"content": "A disciplined mind brings happiness.",
+		"tags": ["Wisdom", "Happiness"],
+		"authorSlug": "the-buddha",
+		"length": 36,
+		"dateAdded": "2023-03-30",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "vpHGlmeIu3Oz",
+		"content": "We never understand how little we need in this world until we know the loss of it.",
+		"author": "J. M. Barrie",
+		"tags": ["Famous Quotes", "Wisdom"],
+		"authorSlug": "j-m-barrie",
+		"length": 82,
+		"dateAdded": "2019-08-08",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "U1gie7MXOB",
+		"author": "Abraham Lincoln",
+		"content": "The ballot is stronger than the bullet.",
+		"tags": ["Politics", "Famous Quotes"],
+		"authorSlug": "abraham-lincoln",
+		"length": 39,
+		"dateAdded": "2022-03-12",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "CeKZLrUeWIp",
+		"content": "Change in all things is sweet.",
+		"author": "Aristotle",
+		"tags": ["Famous Quotes", "Change", "Wisdom"],
+		"authorSlug": "aristotle",
+		"length": 30,
+		"dateAdded": "2021-02-12",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "h8BL2VGEZfK",
+		"content": "There is no failure except in no longer trying.",
+		"author": "Elbert Hubbard",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "elbert-hubbard",
+		"length": 47,
+		"dateAdded": "2021-04-15",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "EpDrsWX_c6li",
+		"content": "When people are like each other they tend to like each other.",
+		"author": "Tony Robbins",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "tony-robbins",
+		"length": 61,
+		"dateAdded": "2019-02-13",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "r2EnGdx5HG",
+		"content": "It has become appallingly obvious that our technology has exceeded our humanity.",
+		"author": "Albert Einstein",
+		"tags": ["Technology"],
+		"authorSlug": "albert-einstein",
+		"length": 80,
+		"dateAdded": "2019-09-13",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "c041Ur1c8R",
+		"author": "Abraham Lincoln",
+		"content": "I will prepare and someday my chance will come.",
+		"tags": ["Famous Quotes", "Inspirational"],
+		"authorSlug": "abraham-lincoln",
+		"length": 47,
+		"dateAdded": "2019-10-03",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "1OXn8__F7P",
+		"content": "Cleverness is not wisdom.",
+		"author": "Euripides",
+		"tags": ["Wisdom"],
+		"authorSlug": "euripides",
+		"length": 25,
+		"dateAdded": "2019-04-05",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "z4yEYvKjp0T",
+		"content": "While we stop to think, we often miss our opportunity.",
+		"author": "Publilius Syrus",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "publilius-syrus",
+		"length": 54,
+		"dateAdded": "2021-01-11",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "hv83OL-O-fTP",
+		"content": "It is only when the mind and character slumber that the dress can be seen.",
+		"author": "Ralph Waldo Emerson",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "ralph-waldo-emerson",
+		"length": 74,
+		"dateAdded": "2019-08-03",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "jyhL7RAa4Duz",
+		"content": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+		"author": "Wayne Dyer",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "wayne-dyer",
+		"length": 85,
+		"dateAdded": "2020-01-12",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "HFT6qcdMVVt",
+		"content": "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.",
+		"author": "George Washington",
+		"tags": ["Friendship"],
+		"authorSlug": "george-washington",
+		"length": 113,
+		"dateAdded": "2019-11-16",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "97oN1n9-l",
+		"content": "Friendship is but another name for an alliance with the follies and the misfortunes of others. Our own share of miseries is sufficient: why enter then as volunteers into those of another?",
+		"author": "Thomas Jefferson",
+		"tags": ["Friendship"],
+		"authorSlug": "thomas-jefferson",
+		"length": 187,
+		"dateAdded": "2020-01-26",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "kJ_kF7p8jpS",
+		"author": "Winston Churchill",
+		"content": "The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.",
+		"tags": ["Politics", "Conservative"],
+		"authorSlug": "winston-churchill",
+		"length": 135,
+		"dateAdded": "2022-03-12",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "JdALGB3Qy982",
+		"content": "I'm a great believer in luck and I find the harder I work, the more I have of it.",
+		"author": "Thomas Jefferson",
+		"tags": ["Famous Quotes"],
+		"authorSlug": "thomas-jefferson",
+		"length": 81,
+		"dateAdded": "2021-01-10",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "Wdk5qxJq5f",
+		"content": "Never interrupt your enemy when he is making a mistake.",
+		"author": "Napoleon",
+		"tags": ["Wisdom"],
+		"authorSlug": "napoleon",
+		"length": 55,
+		"dateAdded": "2021-04-15",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "rfJp893hM2Z",
+		"author": "The Buddha",
+		"content": "Some do not understand that we must die, But those who do realize this settle their quarrels.",
+		"tags": ["Wisdom", "Life"],
+		"authorSlug": "the-buddha",
+		"length": 93,
+		"dateAdded": "2023-03-30",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "vGnmDd7QrhPz",
+		"content": "Life is a succession of moments. To live each one is to succeed.",
+		"author": "Corita Kent",
+		"tags": ["Life"],
+		"authorSlug": "corita-kent",
+		"length": 64,
+		"dateAdded": "2019-12-14",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "za_rrJe3SE",
+		"content": "The essence of true friendship is to make allowance for another's little lapses.",
+		"author": "Ovid",
+		"tags": ["Friendship"],
+		"authorSlug": "ovid",
+		"length": 80,
+		"dateAdded": "2020-02-07",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "2xpHvSOQMD",
+		"author": "Helmut Schmidt",
+		"content": "The biggest room in the world is room for improvement.",
+		"tags": ["Famous Quotes", "Inspirational"],
+		"authorSlug": "helmut-schmidt",
+		"length": 54,
+		"dateAdded": "2021-06-18",
+		"dateModified": "2023-04-14"
+	},
+	{
+		"_id": "uqRZV8skVN",
+		"content": "The way you see people is the way you treat them, and the way you treat them is what they become.",
+		"author": "Johann Wolfgang von Goethe",
+		"tags": ["Wisdom"],
+		"authorSlug": "johann-wolfgang-von-goethe",
+		"length": 97,
+		"dateAdded": "2020-11-10",
+		"dateModified": "2023-04-14"
+	}
+]
